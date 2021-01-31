@@ -20,7 +20,7 @@ df$Global_active_power <- as.numeric(df$Global_active_power)
 png("plot1.png", width = 480, height = 480)
 
 # plot the histogram using the base package
-with(df, hist(Global_active_power, col = "red", xlab = "Global Active Power (kilowatts)"))
+with(df, hist(Global_active_power, col = "red", xlab = "Global Active Power (kilowatts)", main = "Global Active Power"))
 
 # close file
 dev.off()
