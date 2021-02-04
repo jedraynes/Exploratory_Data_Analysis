@@ -5,7 +5,7 @@ For a description of the instructions of project 1, see the instructor repositor
 
 
 **Project 2**  
-*Note: 2/3/21: Project 2 details coming soon!*
+*Note 2/3/21: Project 2 details coming soon!*
 
 
 
